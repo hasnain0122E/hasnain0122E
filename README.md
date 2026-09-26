@@ -1,24 +1,175 @@
-# 💫 About Me:
-I’m Hasnain Ali, a Software Engineering student and aspiring AI Engineer with a strong foundation in full-stack development and problem-solving.<br><br>I enjoy building practical, user-focused applications and continuously improving my understanding of how intelligent systems work under the hood. My current focus is on strengthening my knowledge in:<br><br>🤖 Artificial Intelligence & Machine Learning<br><br>🧠 Deep Learning fundamentals<br><br>📊 Data Structures & Algorithms<br><br>🌐 MERN Stack & Web Technologies<br><br>I believe in learning by building — turning concepts into real-world projects that solve meaningful problems.<br><br>Currently transitioning from traditional web development into AI-driven systems and intelligent applications.
+<h1 align="center">Hi 👋, I'm Hasnain Ali</h1>
+<h3 align="center">AI Engineer | Deep Learning | NLP | LLM Apps | Automation</h3>
 
-
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/hasnainali40) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Hasnain Ali) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hasnainali__619) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hasnainali7867) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hasnain0122@gmail.com) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hasnain0122E&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hasnain0122E&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hasnain0122E&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hasnain0122E&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://github.com/hasnain0122E">
+    <img src="https://komarev.com/ghpvc/?username=hasnain0122E&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hasnain0122E&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+I am a Software Engineering student at **Sindh Madressatul Islam University (SMIU)** and an aspiring **AI Engineer**.
+
+I started with web and app development, then moved toward **Machine Learning, Deep Learning, NLP, and LLM-powered applications**. Recently, I completed core deep learning concepts including **ANN, CNN, RNN, LSTM, GRU, Attention Mechanism, and Transformers** using **TensorFlow and Keras**.
+
+My current focus is on building practical AI systems, especially in **Generative AI, RAG, AI Agents, LLM routing, and automation**.
+
+---
+
+## Current Focus
+
+- Learning and building with **Generative AI**
+- Exploring **RAG systems and AI Agents**
+- Building **LLM-powered applications**
+- Practicing **NLP and Transformer-based models**
+- Improving skills in **AI automation and production-ready AI apps**
+
+---
+
+## Tech Stack
+
+### AI / Machine Learning / Deep Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" />
+</p>
+
+- TensorFlow
+- Keras
+- Scikit-learn
+- NumPy
+- Pandas
+- NLP
+- ANN, CNN, RNN, LSTM, GRU
+- Attention Mechanism
+- Transformers
+- Fast API
+
+### Web Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,tailwind" />
+</p>
+
+- HTML, CSS, JavaScript
+- TypeScript
+- React.js
+- Next.js
+- Node.js
+- Tailwind CSS
+- REST APIs
+
+### App Development & Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,mysql,mongodb,postgresql" />
+</p>
+
+- Flutter
+- Firebase Auth
+- Cloud Firestore
+- MySQL
+- MongoDB
+- PostgreSQL
+
+### Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" />
+</p>
+
+- Git & GitHub
+- VS Code
+- Vercel
+- Netlify
+- Jupyter Notebook
+- Streamlit
+
+---
+
+## Featured Projects
+
+### Attentra — Intelligent LLM Routing Platform
+
+An AI middleware platform that routes requests to the most suitable LLM based on task complexity, quality, latency, and cost.
+
+**Tech Stack:** Next.js, TypeScript, React, PostgreSQL, Prisma, Auth.js, Tailwind CSS, OpenAI API, Anthropic API, Gemini API, Vercel
+
+**Key Features:**
+
+- Multi-provider LLM routing
+- Cost and latency tracking
+- Model selection logic
+- Request logging
+- Fallback handling
+- Dashboard and analytics
+
+---
+
+### Curo — AI Healthcare Mobile App
+
+A Flutter-based healthcare application developed as a university Final Year Project. It helps users scan prescriptions and lab reports, extract structured medical data, and ask AI-assisted questions.
+
+**Tech Stack:** Flutter, Dart, Firebase, Firestore, Google ML Kit, Gemini API, Groq API, Riverpod, GoRouter
+
+**Key Features:**
+
+- Prescription scanning
+- Lab report analysis
+- AI-assisted Q&A
+- English and Urdu support
+- Document management
+- Nearby labs and pharmacies
+
+---
+
+### Sentence Completion using LSTM/GRU
+
+A deep learning NLP project trained to complete half sentences and suggest the next possible words with probability scores.
+
+**Tech Stack:** Python, TensorFlow, Keras, LSTM, GRU, NLP, Streamlit
+
+**Key Features:**
+
+- Sentence completion
+- Next-word prediction
+- Top 5 word suggestions
+- Probability score display
+- Achieved around 75% accuracy
+
+---
+
+### Heart Disease Prediction App
+
+A machine learning web app that predicts heart disease risk based on medical input features.
+
+**Tech Stack:** Python, Scikit-learn, Logistic Regression, Pandas, Streamlit
+
+---
+
+## Learning Journey
+
+```text
+Machine Learning
+├── Supervised Learning
+├── Classification Models
+├── Feature Engineering
+└── Model Evaluation
+
+Deep Learning
+├── ANN
+├── CNN
+├── RNN
+├── LSTM / GRU
+├── Attention Mechanism
+└── Transformers
+
+Current Direction
+├── Generative AI
+├── RAG
+├── AI Agents
+├── LLM Applications
+└── Automation
