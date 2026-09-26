@@ -97,21 +97,23 @@ engineer:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hasnain0122E&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=2B4C7E&icon_color=2B4C7E" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnain0122E&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2B4C7E" />
+  <img height="165" src="./assets/stats.svg" />
+  <img height="165" src="./assets/top-langs.svg" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasnain0122E&theme=tokyonight&hide_border=true&background=0D1117&ring=2B4C7E&fire=2B4C7E" />
+  <img src="./assets/streak.svg" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hasnain0122E&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
+  <img src="./assets/trophy.svg" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasnain0122E&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2B4C7E&line=2B4C7E&point=ffffff" width="100%"/>
+  <img src="./assets/activity-graph.svg" width="100%"/>
 </div>
+
+> These cards are generated once a day by a GitHub Action and committed straight into this repo (see `.github/workflows/update-stats.yml`), so they load instantly from GitHub itself instead of depending on a third-party server at page-load time.
 
 <br/>
 
@@ -120,17 +122,17 @@ engineer:
 <div align="center">
 
 <a href="https://github.com/hasnain0122E/Attentra">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hasnain0122E&repo=Attentra&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2B4C7E" />
+<img width="49%" src="./assets/pin-attentra.svg" />
 </a>
 <a href="https://github.com/hasnain0122E/Curo">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hasnain0122E&repo=Curo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2B4C7E" />
+<img width="49%" src="./assets/pin-curo.svg" />
 </a>
 
 <a href="https://github.com/hasnain0122E/Sentence_Completion_Project_LSTM_GRU_RNN_NLP">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hasnain0122E&repo=Sentence_Completion_Project_LSTM_GRU_RNN_NLP&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2B4C7E" />
+<img width="49%" src="./assets/pin-sentence-completion.svg" />
 </a>
 <a href="https://github.com/hasnain0122E/telco-customer-churn-prediction">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hasnain0122E&repo=telco-customer-churn-prediction&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2B4C7E" />
+<img width="49%" src="./assets/pin-churn.svg" />
 </a>
 
 </div>
