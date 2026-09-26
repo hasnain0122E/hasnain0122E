@@ -1,175 +1,180 @@
-<h1 align="center">Hi 👋, I'm Hasnain Ali</h1>
-<h3 align="center">AI Engineer | Deep Learning | NLP | LLM Apps | Automation</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/hasnain0122E">
-    <img src="https://komarev.com/ghpvc/?username=hasnain0122E&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:2B4C7E&height=220&section=header&text=Hasnain%20Ali&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%7C%20Generative%20AI%20%26%20LLM%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
----
+<a href="https://github.com/hasnain0122E">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2B4C7E&center=true&vCenter=true&width=650&lines=Building+Generative+AI+%26+LLM+systems;Deep+Learning+%7C+ANN+%C2%B7+CNN+%C2%B7+RNN+%C2%B7+LSTM+%C2%B7+GRU;Turning+research+into+production-ready+AI;Final-Year+Software+Engineering+Student" alt="Typing SVG" />
+</a>
 
-## About Me
+<br/>
 
-I am a Software Engineering student at **Sindh Madressatul Islam University (SMIU)** and an aspiring **AI Engineer**.
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:Hasnain0122@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/hasnain0122E" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=hasnain0122E&label=Profile%20Views&color=2B4C7E&style=for-the-badge" />
 
-I started with web and app development, then moved toward **Machine Learning, Deep Learning, NLP, and LLM-powered applications**. Recently, I completed core deep learning concepts including **ANN, CNN, RNN, LSTM, GRU, Attention Mechanism, and Transformers** using **TensorFlow and Keras**.
+</div>
 
-My current focus is on building practical AI systems, especially in **Generative AI, RAG, AI Agents, LLM routing, and automation**.
+<br/>
 
----
+## 🧠 About Me
 
-## Current Focus
+```yaml
+engineer:
+  name: "Hasnain Ali"
+  role: "AI/ML Engineer · Full Stack Developer"
+  location: "Karachi, Pakistan"
+  education: "B.S. Software Engineering @ Sindh Madressatul Islam University (SMIU)"
+  currently_building: "Attentra — an AI infrastructure platform that routes LLM requests to cost-optimal models"
+  currently_learning: ["Generative AI", "RAG Systems", "AI Agents", "Transformer internals"]
+  fun_fact: "I care more about *why* a model works than just that it works."
+```
 
-- Learning and building with **Generative AI**
-- Exploring **RAG systems and AI Agents**
-- Building **LLM-powered applications**
-- Practicing **NLP and Transformer-based models**
-- Improving skills in **AI automation and production-ready AI apps**
+- 🔭 Building **Attentra**, an intelligent LLM-routing platform (my Final Year Project)
+- 🧩 Comfortable across the full AI stack — from **ANN/CNN/RNN/LSTM/GRU** fundamentals to **LLM & RAG** systems in production
+- 🛠️ Also a full-stack dev — React, Next.js, FastAPI, Flutter — so I can ship the AI, not just prototype it
+- 🎤 Co-Lead Organizer, **TEDxSMIU 2.0**
+- 💬 Ask me about **LLM integration, deep learning architectures, or AI product strategy**
 
----
+<br/>
 
-## Tech Stack
+## ⚙️ Tech Stack
 
-### AI / Machine Learning / Deep Learning
+<div align="center">
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" />
-</p>
+**AI / Machine Learning / Deep Learning**
 
-- TensorFlow
-- Keras
-- Scikit-learn
-- NumPy
-- Pandas
-- NLP
-- ANN, CNN, RNN, LSTM, GRU
-- Attention Mechanism
-- Transformers
-- Fast API
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 
-### Web Development
+<br/>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,tailwind" />
-</p>
+<img src="https://img.shields.io/badge/ANN-2B4C7E?style=flat-square"/>
+<img src="https://img.shields.io/badge/CNN-2B4C7E?style=flat-square"/>
+<img src="https://img.shields.io/badge/RNN-2B4C7E?style=flat-square"/>
+<img src="https://img.shields.io/badge/LSTM-2B4C7E?style=flat-square"/>
+<img src="https://img.shields.io/badge/GRU-2B4C7E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Attention_Mechanism-2B4C7E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Transformers-2B4C7E?style=flat-square"/>
 
-- HTML, CSS, JavaScript
-- TypeScript
-- React.js
-- Next.js
-- Node.js
-- Tailwind CSS
-- REST APIs
+**Generative AI & LLMs**
 
-### App Development & Databases
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-2B4C7E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-2B4C7E?style=for-the-badge"/>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,firebase,mysql,mongodb,postgresql" />
-</p>
+**Backend & Web**
 
-- Flutter
-- Firebase Auth
-- Cloud Firestore
-- MySQL
-- MongoDB
-- PostgreSQL
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 
-### Tools
+**Databases & Tools**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" />
-</p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 
-- Git & GitHub
-- VS Code
-- Vercel
-- Netlify
-- Jupyter Notebook
-- Streamlit
+</div>
 
----
+<br/>
 
-## Featured Projects
+## 📊 GitHub Stats
 
-### Attentra — Intelligent LLM Routing Platform
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hasnain0122E&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=2B4C7E&icon_color=2B4C7E" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnain0122E&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2B4C7E" />
+</div>
 
-An AI middleware platform that routes requests to the most suitable LLM based on task complexity, quality, latency, and cost.
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasnain0122E&theme=tokyonight&hide_border=true&background=0D1117&ring=2B4C7E&fire=2B4C7E" />
+</div>
 
-**Tech Stack:** Next.js, TypeScript, React, PostgreSQL, Prisma, Auth.js, Tailwind CSS, OpenAI API, Anthropic API, Gemini API, Vercel
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hasnain0122E&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
+</div>
 
-**Key Features:**
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasnain0122E&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2B4C7E&line=2B4C7E&point=ffffff" width="100%"/>
+</div>
 
-- Multi-provider LLM routing
-- Cost and latency tracking
-- Model selection logic
-- Request logging
-- Fallback handling
-- Dashboard and analytics
+<br/>
 
----
+## 🚀 Featured Projects
 
-### Curo — AI Healthcare Mobile App
+<div align="center">
 
-A Flutter-based healthcare application developed as a university Final Year Project. It helps users scan prescriptions and lab reports, extract structured medical data, and ask AI-assisted questions.
+<a href="https://github.com/hasnain0122E/Attentra">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hasnain0122E&repo=Attentra&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2B4C7E" />
+</a>
+<a href="https://github.com/hasnain0122E/Curo">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hasnain0122E&repo=Curo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2B4C7E" />
+</a>
 
-**Tech Stack:** Flutter, Dart, Firebase, Firestore, Google ML Kit, Gemini API, Groq API, Riverpod, GoRouter
+<a href="https://github.com/hasnain0122E/Sentence_Completion_Project_LSTM_GRU_RNN_NLP">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hasnain0122E&repo=Sentence_Completion_Project_LSTM_GRU_RNN_NLP&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2B4C7E" />
+</a>
+<a href="https://github.com/hasnain0122E/telco-customer-churn-prediction">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hasnain0122E&repo=telco-customer-churn-prediction&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2B4C7E" />
+</a>
 
-**Key Features:**
+</div>
 
-- Prescription scanning
-- Lab report analysis
-- AI-assisted Q&A
-- English and Urdu support
-- Document management
-- Nearby labs and pharmacies
+### 🧭 Attentra — Intelligent LLM Routing Platform
+> AI middleware that routes each request to the most cost-optimal LLM based on task complexity, quality, latency, and cost — with a full audit log of routing decisions.
 
----
+`Next.js` `TypeScript` `PostgreSQL` `Prisma` `OpenAI API` `Claude API` `Gemini API`
 
-### Sentence Completion using LSTM/GRU
+### 🩺 Curo — AI Healthcare Mobile App
+> A Flutter healthcare app that scans prescriptions & lab reports, extracts structured medical data, and answers questions via AI — bilingual (English/Urdu).
 
-A deep learning NLP project trained to complete half sentences and suggest the next possible words with probability scores.
+`Flutter` `Firebase` `Google ML Kit` `Gemini API` `Groq API`
 
-**Tech Stack:** Python, TensorFlow, Keras, LSTM, GRU, NLP, Streamlit
+### ✍️ Sentence Completion — LSTM / GRU / RNN
+> A deep learning NLP model that completes half-written sentences and ranks the top-5 next-word predictions by probability. ~75% accuracy.
 
-**Key Features:**
+`Python` `TensorFlow` `Keras` `LSTM` `GRU` `NLP` `Streamlit`
 
-- Sentence completion
-- Next-word prediction
-- Top 5 word suggestions
-- Probability score display
-- Achieved around 75% accuracy
+### 📉 Telco Customer Churn Prediction
+> An end-to-end ML pipeline predicting customer churn from behavioral and account data, with full EDA and model comparison.
 
----
+`Python` `scikit-learn` `Pandas` `EDA`
 
-### Heart Disease Prediction App
+<br/>
 
-A machine learning web app that predicts heart disease risk based on medical input features.
-
-**Tech Stack:** Python, Scikit-learn, Logistic Regression, Pandas, Streamlit
-
----
-
-## Learning Journey
+## 🌱 Learning Roadmap
 
 ```text
-Machine Learning
-├── Supervised Learning
-├── Classification Models
-├── Feature Engineering
-└── Model Evaluation
+Machine Learning        Deep Learning              Now Building
+├── Supervised          ├── ANN                     ├── Generative AI
+├── Classification       ├── CNN                     ├── RAG Systems
+├── Feature Engineering ├── RNN / LSTM / GRU         ├── AI Agents
+└── Model Evaluation    ├── Attention Mechanism      ├── LLM Routing (Attentra)
+                        └── Transformers             └── Production AI Automation
+```
 
-Deep Learning
-├── ANN
-├── CNN
-├── RNN
-├── LSTM / GRU
-├── Attention Mechanism
-└── Transformers
+<br/>
 
-Current Direction
-├── Generative AI
-├── RAG
-├── AI Agents
-├── LLM Applications
-└── Automation
+<div align="center">
+
+### 📫 Let's connect and build something intelligent together
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:Hasnain0122@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B4C7E,100:0F2027&height=100&section=footer" width="100%"/>
+
+</div>
