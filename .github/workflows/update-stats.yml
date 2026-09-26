@@ -1,0 +1,45 @@
+name: Update Profile Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # once a day at 00:00 UTC
+  workflow_dispatch:        # lets you trigger it manually from the Actions tab
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Create assets folder
+        run: mkdir -p assets
+
+      - name: Fetch GitHub stats card
+        run: curl -sL "https://github-readme-stats.vercel.app/api?username=hasnain0122E&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=2B4C7E&icon_color=2B4C7E" -o assets/stats.svg
+
+      - name: Fetch top languages card
+        run: curl -sL "https://github-readme-stats.vercel.app/api/top-langs/?username=hasnain0122E&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2B4C7E" -o assets/top-langs.svg
+
+      - name: Fetch streak stats
+        run: curl -sL "https://github-readme-streak-stats.herokuapp.com/?user=hasnain0122E&theme=tokyonight&hide_border=true&background=0D1117&ring=2B4C7E&fire=2B4C7E" -o assets/streak.svg
+
+      - name: Fetch trophies
+        run: curl -sL "https://github-profile-trophy.vercel.app/?username=hasnain0122E&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" -o assets/trophy.svg
+
+      - name: Fetch activity graph
+        run: curl -sL "https://github-readme-activity-graph.vercel.app/graph?username=hasnain0122E&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2B4C7E&line=2B4C7E&point=ffffff" -o assets/activity-graph.svg
+
+      - name: Fetch project pin cards
+        run: |
+          curl -sL "https://github-readme-stats.vercel.app/api/pin/?username=hasnain0122E&repo=Attentra&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2B4C7E" -o assets/pin-attentra.svg
+          curl -sL "https://github-readme-stats.vercel.app/api/pin/?username=hasnain0122E&repo=Curo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2B4C7E" -o assets/pin-curo.svg
+          curl -sL "https://github-readme-stats.vercel.app/api/pin/?username=hasnain0122E&repo=Sentence_Completion_Project_LSTM_GRU_RNN_NLP&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2B4C7E" -o assets/pin-sentence-completion.svg
+          curl -sL "https://github-readme-stats.vercel.app/api/pin/?username=hasnain0122E&repo=telco-customer-churn-prediction&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2B4C7E" -o assets/pin-churn.svg
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/*.svg
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update profile stat cards" && git push)
